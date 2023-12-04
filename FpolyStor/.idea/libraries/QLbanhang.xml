@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QLbanhang">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/QLbanhang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
